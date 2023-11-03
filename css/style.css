@@ -1,0 +1,20 @@
+.css-1nrycbv-CloseButton{
+    position: absolute;
+    border: 0px;
+    background-color: rgb(213, 213, 213);
+    border-radius: 50px;
+    height: 25px;
+    width: 25px;
+    right: 20px;
+    top: 20px;
+    cursor: pointer;
+  }
+
+.stick-to-bottom{
+    position: sticky;
+    bottom: 0px;
+}
+
+#subscribe-modal-message{
+  color: #000000;
+}
